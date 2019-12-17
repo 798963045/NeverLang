@@ -1,4 +1,4 @@
-package com.neverlang.letcode.demo;
+package com.neverlang.letcode.exercise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
